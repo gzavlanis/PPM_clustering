@@ -1,0 +1,2 @@
+# PPM_clustering
+ Remove noise from a signal using a Machine learning clustering algorithm, called Mini-Batch K-Means. For the experiment I used data of a PPM modulated signal, which is transmitted by a laser transmitter and received by a receiver 1km away. After that, I trained the model with the transmitted and received signal and asked from it to recreate the transmitted signal. The result is perfect!
